@@ -1,0 +1,23 @@
+Grafos são estruturas matemáticas que consistem em conjuntos de nós (também chamados de vértices) e arestas que conectam esses nós. Os grafos são 
+amplamente utilizados em ciência da computação, matemática e várias outras disciplinas para modelar relações entre entidades.
+
+Existem vários tipos de grafos, sendo os dois principais:
+
+
+
+Grafos Não Direcionados:
+
+Neste tipo de grafo, as arestas não têm uma direção específica. Se existe uma aresta que conecta o nó A ao nó B, isso implica que também há uma aresta que conecta o nó B ao nó A.
+
+
+Grafos Direcionados:
+
+Aqui, as arestas têm uma direção específica. Se há uma aresta do nó A para o nó B, isso não implica que existe uma aresta do nó B para o nó A.
+
+
+
+
+Grafos desempenham um papel crucial no contexto tecnológico, sendo fundamentais em diversas aplicações. Em redes sociais, eles modelam conexões
+entre usuários, facilitando análises de comunidades e sugestões de amizades. Na área de redes de computadores, algoritmos de grafos otimizam o 
+roteamento de dados, garantindo eficiência na transmissão de informações. Além disso, em sistemas de recomendação, grafos representam interações
+entre usuários e itens, impulsionando a personalização e a precisão das recomendações.
